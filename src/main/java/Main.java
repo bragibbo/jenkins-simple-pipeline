@@ -1,5 +1,3 @@
-import jdk.internal.joptsimple.internal.Strings;
-
 import java.util.Scanner;
 
 public class Main {
