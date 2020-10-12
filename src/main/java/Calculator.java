@@ -40,7 +40,6 @@ class Calculator {
     .
     .
     etc
-    Change for webhook
      */
     int fibonacciNumberFinder(int n){
         if (n <= 1)
